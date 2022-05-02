@@ -9,7 +9,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import TodoApp from './components/Todo.vue'
+import TodoApp from './components/TodoApp.vue'
 
 export default {
   name: 'App',
